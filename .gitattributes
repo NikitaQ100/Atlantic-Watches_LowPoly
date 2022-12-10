@@ -1,0 +1,15 @@
+Bake/bake_Watch_ao.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Glass_ao.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Watch_normal.psd filter=lfs diff=lfs merge=lfs -text
+Marmoset/Watch.tbscene filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Glass_matid.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Watch_matid.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Glass_position.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Watch_curve.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Watch_position.psd filter=lfs diff=lfs merge=lfs -text
+Gltf/Textures4K/Atlantic.glb filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Glass_normal.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Glass_thickness.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Watch_thickness.psd filter=lfs diff=lfs merge=lfs -text
+Bake/bake_Glass_curve.psd filter=lfs diff=lfs merge=lfs -text
+Substance/Atlantic.spp filter=lfs diff=lfs merge=lfs -text
